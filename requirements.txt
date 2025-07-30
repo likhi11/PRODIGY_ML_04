@@ -1,0 +1,5 @@
+
+numpy
+opencv-python
+matplotlib
+tensorflow  # or torch, based on your preferred framework
